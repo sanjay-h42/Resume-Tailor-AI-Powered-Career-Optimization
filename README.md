@@ -1,4 +1,5 @@
-🚀 Resume Tailor: AI-Powered Career Optimization
+# 🚀 Resume Tailor: AI-Powered Career Optimization
+
 Resume Tailor is a sophisticated AI agent designed to bridge the gap between talented candidates and complex Applicant Tracking Systems (ATS). By leveraging Large Language Models (LLMs) and advanced Natural Language Processing (NLP), this tool analyzes job descriptions (JDs) and automatically re-engineers resumes to maximize keyword relevance, professional impact, and overall match score.
 
 🌟 Key Features
