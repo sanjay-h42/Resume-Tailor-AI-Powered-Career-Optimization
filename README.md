@@ -10,7 +10,7 @@ Automated Content Rewriting: Suggests high-impact bullet points using the Google
 Skill Gap Identification: Highlights missing technical and soft skills required for the target role.
 Career Path Recommendations: Suggests similar job titles and industries based on the user's analyzed skill set.
 
-![image](AI-Resume-Analyser.png)
+![HomePage](HomePage.png)
 
 🛠️ Tech Stack
 
