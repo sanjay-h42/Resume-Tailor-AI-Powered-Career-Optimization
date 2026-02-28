@@ -39,10 +39,17 @@ To ensure the AI doesn't "hallucinate" or create fake experiences, the system in
 🚀 High-Impact Performance Metrics
 
 1.Boosted Interview Success: Engineered a semantic matching engine that increased user callback rates by 45% by optimizing for ATS keyword triggers.
+
 2.Reduced Latency by 30%: Optimized system performance by implementing a Redis Semantic Cache, cutting LLM inference time and reducing API overhead.
+
 3.nearly 99.8% Factual Accuracy: Developed Fact-Checking Guardrails to cross-reference AI suggestions with original data, eliminating hallucinations in professional summaries.
+
 4.Scalable Architecture: Built a Dockerized microservices backend on Google Cloud Run, supporting 500+ concurrent users with zero downtime.
+
 5.60% Better Keyword Relevance: Leveraged Vector Databases (Pinecone) for sub-second retrieval of industry-standard skill taxonomies.
+
 6.Enhanced User Engagement: Integrated a Collaborative Filtering recommender that increased platform retention by 25% through personalized career paths.
+
 7.Fact-Checking Guardrails: Cross-references rewritten points with the original resume to ensure 100% factual accuracy.
+
 8.A/B Test Results: Users using Resume Tailor saw a 45% increase in interview callback rates during beta testing.
